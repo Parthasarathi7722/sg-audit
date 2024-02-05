@@ -12,7 +12,7 @@ This Python script performs an audit of AWS security groups, checking for open p
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/aws-security-group-audit.git
+    git clone https://github.com/Parthasarathi7722/sg-audit.git
     cd aws-security-group-audit
     ```
 
